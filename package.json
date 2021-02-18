@@ -1,6 +1,7 @@
 {
 	"author": "Korhan Eker",
 	"description": "Managing Packages with NPM - Freecodecamp",
+	"keywords": ["freecodecamp","managing packages","npm","package.json"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
